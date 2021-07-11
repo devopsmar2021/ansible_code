@@ -133,3 +133,7 @@
   131  history
 
 ```
+
+
+
+Ref code: https://github.com/nwanki/infra-automation/tree/master/project/complete-vpc/ansible-playbooks/roles/artifactory
