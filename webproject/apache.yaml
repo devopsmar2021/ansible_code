@@ -1,0 +1,7 @@
+---
+- name: installing apache webserver
+  hosts: web
+  become_method: sudo
+  become: yes
+  roles:
+    - webserver
