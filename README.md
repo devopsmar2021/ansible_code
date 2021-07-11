@@ -1,3 +1,4 @@
+```
 [ec2-user@ip-172-31-59-205 code]$ history
     1  python -V
     2  sudo yum list python3
@@ -131,3 +132,4 @@
   130  git push -u origin main
   131  history
 
+```
